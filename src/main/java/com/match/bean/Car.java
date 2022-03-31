@@ -1,8 +1,11 @@
 package com.match.bean;
 
+import org.springframework.stereotype.Component;
+
 /**
  * @author matchfu
  */
+@Component
 public class Car {
 
     public Car() {
